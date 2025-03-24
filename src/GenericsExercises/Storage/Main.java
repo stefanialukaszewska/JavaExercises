@@ -28,5 +28,7 @@ public class Main {
 
         clothingStorage.addItem(cap);
         clothingStorage.showItems();
+
+        Storage.howManyStorages();
     }
 }

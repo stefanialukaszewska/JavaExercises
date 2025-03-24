@@ -39,4 +39,8 @@ public class Storage <T>{
         System.out.println("Storage [id: "+ storageId+ "] is " + percentage + "% full");
     }
 
+    public static void howManyStorages(){
+        System.out.println("There " + (storageNumber == 1 ? "is" : "are") + " " + storageNumber + " storage" + (storageNumber == 1 ? "" : "s"));
+    }
+
 }
