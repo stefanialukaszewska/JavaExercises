@@ -13,4 +13,10 @@ Every created storage gets an id.
 
 Static method howManyStorages tells how many storages have been created.
 
+Abstract class Item is to help create objects to store. It contains the basic fields like name and type, 
+that will be used by any other classes we would create - e.g. to store some electronic ->
+create class Electronic, think of an additional field for that class only (like category for Clothing class).
+Create its object - for example _Electronic laptop = new Electronic("NoteBook Air 16gb", "laptop", "...")_.
+Then create storage for electronic objects, give it a capacity and add created electronic(s). Try for yourself!!
+
 
