@@ -1,4 +1,4 @@
-package GenericsExercises.Storage;
+package GenericsLambdasExercises.Storage;
 
 public class Clothing extends Item{
     private String category;

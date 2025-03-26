@@ -1,4 +1,4 @@
-package GenericsExercises.Storage;
+package GenericsLambdasExercises.Storage;
 
 public class Food extends Item {
     private final boolean isGlutenFree;

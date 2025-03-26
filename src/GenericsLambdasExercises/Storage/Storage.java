@@ -1,4 +1,4 @@
-package GenericsExercises.Storage;
+package GenericsLambdasExercises.Storage;
 
 import java.util.ArrayList;
 import java.util.List;

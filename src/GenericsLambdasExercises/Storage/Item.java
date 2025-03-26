@@ -1,4 +1,4 @@
-package GenericsExercises.Storage;
+package GenericsLambdasExercises.Storage;
 
 public abstract class Item {
     protected String name;
